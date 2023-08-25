@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Specialized;
+using System.Globalization;
 
 namespace Projeto_1
 {
@@ -27,6 +28,47 @@ namespace Projeto_1
 
             Console.WriteLine(Math.Pow(2, 10));
             Console.WriteLine(Math.Sqrt(32));
+
+            string frase, x, y, z;
+
+            /*
+            string[] vet = Console.ReadLine().Split(' ');
+
+            for (int i = 0; i < vet.Length; i++)
+            {
+                if (i < (vet.Length) - 1)
+                    Console.Write(vet[i] + " - ");
+                else
+                    Console.Write(vet[i]);
+            }
+            
+
+            Console.WriteLine("Digite um número: ");
+            int n1 = int.Parse(Console.ReadLine());
+            Console.WriteLine(n1);
+
+            Console.WriteLine("Digite um caracter: ");
+            char ch = char.Parse(Console.ReadLine());
+            Console.WriteLine(ch);
+
+            Console.WriteLine("Digite um número quebrado: "); // PC em PT-BR -> 4.5 = 4,5
+            float num = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine(num.ToString(CultureInfo.InvariantCulture));
+
+            */
+
+            string[] dados = Console.ReadLine().Split(' ');
+
+            string nome2 = dados[0];
+            char sexo = char.Parse(dados[1]);
+            int idade2 = int.Parse(dados[2]);
+            double altura = double.Parse(dados[3], CultureInfo.InvariantCulture);
+
+            Console.WriteLine(nome2);
+            Console.WriteLine(sexo);
+            Console.WriteLine(idade2);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
         }
+
     }
 }
