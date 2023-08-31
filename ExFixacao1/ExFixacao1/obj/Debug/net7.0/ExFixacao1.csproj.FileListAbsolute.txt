@@ -1,0 +1,14 @@
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\bin\Debug\net7.0\ExFixacao1.exe
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\bin\Debug\net7.0\ExFixacao1.deps.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\bin\Debug\net7.0\ExFixacao1.runtimeconfig.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\bin\Debug\net7.0\ExFixacao1.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\bin\Debug\net7.0\ExFixacao1.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\refint\ExFixacao1.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ExFixacao1.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\ExFixacao1\ExFixacao1\obj\Debug\net7.0\ref\ExFixacao1.dll
