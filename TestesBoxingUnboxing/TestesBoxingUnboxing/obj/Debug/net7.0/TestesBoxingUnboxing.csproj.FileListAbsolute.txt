@@ -1,0 +1,14 @@
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\bin\Debug\net7.0\TestesBoxingUnboxing.exe
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\bin\Debug\net7.0\TestesBoxingUnboxing.deps.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\bin\Debug\net7.0\TestesBoxingUnboxing.runtimeconfig.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\bin\Debug\net7.0\TestesBoxingUnboxing.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\bin\Debug\net7.0\TestesBoxingUnboxing.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\refint\TestesBoxingUnboxing.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\TestesBoxingUnboxing.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesBoxingUnboxing\TestesBoxingUnboxing\obj\Debug\net7.0\ref\TestesBoxingUnboxing.dll

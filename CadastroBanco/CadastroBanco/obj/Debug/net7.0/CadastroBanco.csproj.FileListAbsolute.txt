@@ -1,0 +1,14 @@
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\bin\Debug\net7.0\CadastroBanco.exe
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\bin\Debug\net7.0\CadastroBanco.deps.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\bin\Debug\net7.0\CadastroBanco.runtimeconfig.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\bin\Debug\net7.0\CadastroBanco.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\bin\Debug\net7.0\CadastroBanco.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\refint\CadastroBanco.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\CadastroBanco.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\CadastroBanco\CadastroBanco\obj\Debug\net7.0\ref\CadastroBanco.dll

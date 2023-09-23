@@ -1,0 +1,14 @@
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\bin\Debug\net7.0\TestesListas.exe
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\bin\Debug\net7.0\TestesListas.deps.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\bin\Debug\net7.0\TestesListas.runtimeconfig.json
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\bin\Debug\net7.0\TestesListas.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\bin\Debug\net7.0\TestesListas.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\refint\TestesListas.dll
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\TestesListas.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Área de Trabalho\CSharp\TestesListas\TestesListas\obj\Debug\net7.0\ref\TestesListas.dll
